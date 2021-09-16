@@ -5,7 +5,7 @@
 
 Unity 2021.1.16fで作成
 
-![img1](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image1.jpg)
-![img2](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image3.jpg)
-![img3](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image2.jpg)
-
+![アイコンの表示](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image1.jpg)
+![会話](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image3.jpg)
+![選択肢](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image2.jpg)
+![シナリオの構築](https://raw.githubusercontent.com/tsubaki/Unity_DialogSample/main/Image/image4.jpg)
